@@ -63,7 +63,7 @@
 - **Consensus Assessments Initiative Questionnaire (CAIQ)**: Template for documenting CSPs’ security controls.
 - **Cloud Controls Matrix (CCM)**: A detailed security control framework that maps to various compliance standards.
 
-==============================================================================================
+============================================================================================
 
 ## Cloud Governance and Strategies
 
@@ -128,7 +128,7 @@
 
 - **Information Security Policies**: Policies are essential for maintaining a secure environment. These include top-level information security policies, acceptable use policies, data protection policies, and cloud service use guidelines.
 
-==============================================================================================
+============================================================================================
 
 ## Identity and Access Management 
 
@@ -187,7 +187,7 @@
     - **Hub and Spoke**: Centralized identity broker communicates with multiple cloud providers.
     - **Free-Form**: Direct federation between internal systems and cloud providers, though this can introduce security risks, such as the need for Internet access to directories.
 
-==============================================================================================
+============================================================================================
 
 ## Organization Management
 
@@ -255,7 +255,7 @@ CSCs typically use one of three models:
     - **Cloud Access Security Brokers (CASB)**: Control access to SaaS services and manage data flows between services.
     - **API Gateways**: Enforce policies on interactions between SaaS and other applications.
 
-==============================================================================================
+============================================================================================
 
 ## Risk, Audit, and Compliance 
 
@@ -359,7 +359,7 @@ Cloud governance and risk management involve both technical and non-technical to
 - **Cloud Provider Policies**: Set by the CSP to enforce governance at various levels.
 - **Automation Tools**: Used to automate governance and compliance activities, reducing manual workload.
 
-==============================================================================================
+============================================================================================
 
 ## Security Monitoring 
 
@@ -431,7 +431,7 @@ AI plays a critical role in processing large volumes of security data, enhancing
 - **Automated Responses**: AI-driven automation reduces the time between detecting a threat and responding.
 - **Support for Analysts**: AI can assist by enriching logs, simulating attacks, and patching vulnerabilities, reducing the workload on security teams.
 
-==============================================================================================
+============================================================================================
 
 ## Application Security 
 
@@ -506,7 +506,7 @@ IAM plays a critical role in application security by controlling who can access 
 
 - **WAFs**: Protect HTTP traffic from attacks, while **API Gateways** address API security concerns like authentication and rate limiting. These tools are critical for securing cloud applications and are offered in various deployment models (e.g., integrated cloud services or third-party solutions)
 
-==============================================================================================
+============================================================================================
 
 ## Cloud Workload Security 
 
@@ -595,7 +595,7 @@ The document highlights several tools for managing workload security:
 - **Endpoint Detection and Response (EDR)**: Agents for runtime monitoring.
 - **Security Information and Event Management (SIEM)**: Centralized log collection and real-time security monitoring.
 
-==============================================================================================
+============================================================================================
 
 ## Data Security 
 
@@ -692,7 +692,7 @@ AI workloads involve unique data security challenges, including:
 - **AI as a Service**: Using third-party AI models (e.g., OpenAI, Google Vertex AI) requires clarifying data retention policies, understanding data flows, and ensuring the provider’s security practices align with regulatory requirements.
 - **Adversarial Attacks**: Protecting AI models and their data from manipulation or malicious attacks is essential to ensuring the reliability and security of AI-driven systems.
 
-==============================================================================================
+============================================================================================
 
 ## Incident Response and Resilience 
 
@@ -766,7 +766,7 @@ Forensics in cloud environments involve:
 
 **Post-incident analysis** focuses on lessons learned, improving processes, and creating new playbooks to handle future incidents. Misconfigurations are a common cause of cloud security incidents, and organizations should adopt a **Just Culture** approach to improve systemic issues without assigning blame.
 
-==============================================================================================
+============================================================================================
 
 ## Infrastructure and Networking 
 
@@ -845,7 +845,7 @@ Securing cloud networks involves deploying reference architectures based on spec
 
 **SASE** combines network security functions with Wide Area Network (WAN) capabilities. It brings security closer to users by executing it at the edge, reducing the need for backhauling traffic through central data centers.
 
-==============================================================================================
+============================================================================================
 
 ## Related Technologies and Strategies 
 
